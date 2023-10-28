@@ -1,17 +1,12 @@
 {
-  "name": "agora-rn-uikit",
-  "version": "5.0.1",
+  "name": "agora-rn-uikit-web-fix",
+  "version": "5.0.2",
   "author": {
-    "name": "Ekaansh Arora",
-    "email": "ekaansh@agora.io"
+    "name": "Brian Juhl",
+    "email": "hi@aice.email"
   },
-  "main": "./index.ts",
-  "contributors": [
-    {
-      "name": "Vineeth S",
-      "email": "vineeth@agora.io"
-    }
-  ],
+  "main": "./index.web.js",
+  "react-native": "./index.ts",
   "license": "MIT",
   "files": [
     "Components.ts",
